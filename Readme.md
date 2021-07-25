@@ -2,7 +2,7 @@
 
 # Spiderman-Portfolio🕷
 
-## This is my Spider-Man website, to learn more about HTML and CSS technologies, developed during the Heroway course.
+## This is my Spider-Man responsive website, to learn more about HTML and CSS technologies, developed during the Heroway course.
 
 ![Layout](https://github.com/GabrielHygino/Spiderman-Portfolio/blob/main/assets/images/layout.jpeg?raw=true)
 
